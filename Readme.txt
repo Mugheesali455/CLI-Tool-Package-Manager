@@ -1,4 +1,4 @@
-**CLI Tool Manager Build 1.1**
+**CLI Tool Manager Build v0.0.1**
 
 Bugs Got fixed! now it correctly recognized whether the internet connection is present or not and some other minor bugs also got fixed!!!
 
